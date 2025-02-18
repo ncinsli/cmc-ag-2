@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Линейные операторы.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Линейные операторы"
+              "title": "readme"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линейные операторы.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Линейные операторы"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линейные операторы.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Линейные операторы"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линейные операторы.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Линейные операторы"
+              "title": "Outline of readme"
             }
           }
         ]
@@ -181,12 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "154ab2cf4598aa0c",
+  "active": "a63720512ba79b64",
   "lastOpenFiles": [
-    "Лекции.pdf",
-    "Линейные операторы.md",
-    "readme.md",
     "Корень.md",
+    "Линейные операторы.md",
+    "Лекции.pdf",
+    "readme.md",
     "Untitled.canvas"
   ]
 }
